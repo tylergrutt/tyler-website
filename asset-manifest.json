@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tyler-website/static/css/main.c5c5c5f9.css",
-    "main.js": "/tyler-website/static/js/main.1501ddd2.js",
-    "static/js/453.bee5cfed.chunk.js": "/tyler-website/static/js/453.bee5cfed.chunk.js",
-    "index.html": "/tyler-website/index.html",
-    "main.c5c5c5f9.css.map": "/tyler-website/static/css/main.c5c5c5f9.css.map",
-    "main.1501ddd2.js.map": "/tyler-website/static/js/main.1501ddd2.js.map",
-    "453.bee5cfed.chunk.js.map": "/tyler-website/static/js/453.bee5cfed.chunk.js.map"
+    "main.css": "/tyler-website/home/static/css/main.c5c5c5f9.css",
+    "main.js": "/tyler-website/home/static/js/main.f26ede3d.js",
+    "static/js/453.bee5cfed.chunk.js": "/tyler-website/home/static/js/453.bee5cfed.chunk.js",
+    "index.html": "/tyler-website/home/index.html",
+    "main.c5c5c5f9.css.map": "/tyler-website/home/static/css/main.c5c5c5f9.css.map",
+    "main.f26ede3d.js.map": "/tyler-website/home/static/js/main.f26ede3d.js.map",
+    "453.bee5cfed.chunk.js.map": "/tyler-website/home/static/js/453.bee5cfed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c5c5f9.css",
-    "static/js/main.1501ddd2.js"
+    "static/js/main.f26ede3d.js"
   ]
 }
